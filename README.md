@@ -1,10 +1,55 @@
-- 👋 Hi, I’m Bhavya
-- 👀 I’m interested mostly in creating interesting websites using python. 
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/bhavya-sunkari-81b601288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: she/her
+# Hi there, I'm Bhavya Sunkari! 👋
 
+🎓 BTech student at **IIT Mandi**, majoring in **Materials Science & Engineering**  
+🧠 Pursuing a Minor in **Computer Science**  
+🔍 Exploring emerging technologies to develop impactful **real-world solutions**  
+🏸 Off the screen, I enjoy playing **badminton**, reading **novels**, and building passion projects just for fun
 
-<!---
-Bhavya445/Bhavya445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Skills & Tools
+
+### 💻 Languages  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</span>
+
+### 🧰 Frameworks & Libraries  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</span>
+
+### 🛠 Tools & Platforms  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</span>  
+<br/>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" style="margin-right:15px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin-right:15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+</span>  
+<br/>
+<sub><i>Includes experience with REST & GraphQL APIs</i></sub>
+
+---
+
+## 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/bhavya-sunkari445)  
+- Mail me: `bhavya4405@gmail.com`
+
+---
+
+> “Live fearlessly, keep exploring and let's make this world a better place”  
+> — Bhavya
