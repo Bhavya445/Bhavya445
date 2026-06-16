@@ -1,7 +1,6 @@
 # Hi there, I'm Bhavya Sunkari! 👋
 
-🎓 BTech student at **IIT Mandi**, majoring in **Materials Science & Engineering**  
-🧠 Pursuing a Minor in **Computer Science** and **Quantum Technology**  
+🎓 BTech student at **IIT Mandi**
 🔍 Exploring emerging technologies to develop impactful **real-world solutions**  
 🏸 Off the screen, I enjoy playing **badminton**, reading **novels**, and building passion projects just for fun
 
